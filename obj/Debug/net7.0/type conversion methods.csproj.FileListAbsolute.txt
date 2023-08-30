@@ -1,0 +1,15 @@
+C:\Users\ayseg\OneDrive\Masaüstü\console\type conversion methods\obj\Debug\net7.0\type conversion methods.csproj.AssemblyReference.cache
+C:\Users\ayseg\OneDrive\Masaüstü\console\type conversion methods\obj\Debug\net7.0\type conversion methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayseg\OneDrive\Masaüstü\console\type conversion methods\obj\Debug\net7.0\type conversion methods.AssemblyInfoInputs.cache
+C:\Users\ayseg\OneDrive\Masaüstü\console\type conversion methods\obj\Debug\net7.0\type conversion methods.AssemblyInfo.cs
+C:\Users\ayseg\OneDrive\Masaüstü\console\type conversion methods\obj\Debug\net7.0\type conversion methods.csproj.CoreCompileInputs.cache
+C:\Users\ayseg\OneDrive\Masaüstü\console\type conversion methods\bin\Debug\net7.0\type conversion methods.exe
+C:\Users\ayseg\OneDrive\Masaüstü\console\type conversion methods\bin\Debug\net7.0\type conversion methods.deps.json
+C:\Users\ayseg\OneDrive\Masaüstü\console\type conversion methods\bin\Debug\net7.0\type conversion methods.runtimeconfig.json
+C:\Users\ayseg\OneDrive\Masaüstü\console\type conversion methods\bin\Debug\net7.0\type conversion methods.dll
+C:\Users\ayseg\OneDrive\Masaüstü\console\type conversion methods\bin\Debug\net7.0\type conversion methods.pdb
+C:\Users\ayseg\OneDrive\Masaüstü\console\type conversion methods\obj\Debug\net7.0\type conversion methods.dll
+C:\Users\ayseg\OneDrive\Masaüstü\console\type conversion methods\obj\Debug\net7.0\refint\type conversion methods.dll
+C:\Users\ayseg\OneDrive\Masaüstü\console\type conversion methods\obj\Debug\net7.0\type conversion methods.pdb
+C:\Users\ayseg\OneDrive\Masaüstü\console\type conversion methods\obj\Debug\net7.0\type conversion methods.genruntimeconfig.cache
+C:\Users\ayseg\OneDrive\Masaüstü\console\type conversion methods\obj\Debug\net7.0\ref\type conversion methods.dll
